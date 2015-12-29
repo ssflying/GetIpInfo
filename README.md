@@ -10,4 +10,3 @@ cat iplist | ./GetIpInfo -p <qps>
 ```
 
 qps: 默认10,taobao的限速
-
